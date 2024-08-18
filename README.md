@@ -6,7 +6,7 @@ Tiny collection of tiny plugins for AO# SDK.
 
 Will automatically send a team invite to anyone sending one of the keywords in /tells.
 Current keywords are: 
-	- inv
-	- invite
-	- team
+- inv
+- invite
+- team
 
