@@ -18,7 +18,7 @@ namespace AutoInv
                 Chat.WriteLine("AutoInv Plugin Loaded");
                 Chat.WriteLine("Any tell you receive with the word 'inv', 'invite' or 'team' will send the sender a team invite if there are room in your team and you've got leadership");
                 Chat.WriteLine("To disable auto-invites, use <font color='white'>/disableAutoInv</font>. To re-enable, use <font color='white'>/enableAutoInv</font>.");
-                Chat.WriteLine("Auto invite <font color='green'>enabled</font> !");
+                Chat.WriteLine("To see the current auto-invite status, use <font color='white'>/autoinv</font>.");
                 Chat.RegisterCommand("enableAutoInv", Command);
                 Chat.RegisterCommand("disableAutoInv", Command);
                 Chat.RegisterCommand("autoinv", Command);
