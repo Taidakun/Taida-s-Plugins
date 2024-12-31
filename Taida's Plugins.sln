@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoInv", "AutoInv\AutoInv.csproj", "{E2A5C7C0-A925-4210-AAA6-8C2730AC3942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAccept", "AutoAccept\AutoAccept.csproj", "{89E82BEE-6D54-40FC-B5BF-C0DC7A8E4768}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E2A5C7C0-A925-4210-AAA6-8C2730AC3942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2A5C7C0-A925-4210-AAA6-8C2730AC3942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2A5C7C0-A925-4210-AAA6-8C2730AC3942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E82BEE-6D54-40FC-B5BF-C0DC7A8E4768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E82BEE-6D54-40FC-B5BF-C0DC7A8E4768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E82BEE-6D54-40FC-B5BF-C0DC7A8E4768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E82BEE-6D54-40FC-B5BF-C0DC7A8E4768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
