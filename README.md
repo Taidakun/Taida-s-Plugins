@@ -10,3 +10,12 @@ Current keywords are:
 - invite
 - team
 
+Can be disabled using the command `/disableAutoInv` and enabled back with `/enableAutoInv`. 
+Can check the current status with `/autoinv`.
+
+## AutoAccept
+
+Will automatically accept team invitations sent to you. 
+
+Can be disabled using the command `/disableAutoAccept`, and enabled back with `/enableAutoAccept`.
+Can check the current status with `/autoaccept`.
